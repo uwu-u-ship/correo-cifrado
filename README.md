@@ -1,3 +1,5 @@
+TENER EN CUENTA : BUG DE LETRAS 
+
 Descripción del proyecto:
 Este proyecto implementa un sistema de envío de correos electrónicos desde una máquina con Ubuntu, utilizando el protocolo SMTP. El sistema permite enviar mensajes a un destinatario específico de manera segura, ya que el contenido del correo es cifrado mediante tres filtros de seguridad desarrollados e integrados en el proceso de envío.
 
